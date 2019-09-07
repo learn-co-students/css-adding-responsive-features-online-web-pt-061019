@@ -1,5 +1,17 @@
 /* ////////// 1108px ////////// */
 @media only screen and (max-width: 1108px) {
   .wrapper { width: 90%; }
+  #social {
+    position: fixed;
+    top: 82px;
+    right: 4px;
+    width: auto;
+  }
+}
+
+/* ////////// tablets 900px ////////// */
+body {
+  font-size: 85%;
+  
 }
 
